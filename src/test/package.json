@@ -1,6 +1,6 @@
 {
   "name": "hornet-npm-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NPM test",
   "main": "index.js",
   "directories": {
